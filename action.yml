@@ -1,5 +1,5 @@
-name: "OpenVPN-Connect"
-description: "connect to OpenVPN server"
+name: "OpenVPN-Connect-Container"
+description: "connect to OpenVPN server Container"
 branding:
   icon: "lock"
   color: "green"
